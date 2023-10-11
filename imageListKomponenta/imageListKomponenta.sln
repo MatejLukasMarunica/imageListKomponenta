@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imageListKomponenta", "imageListKomponenta\imageListKomponenta.csproj", "{75D4789D-8DEA-4617-9155-79937FEB45C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D4789D-8DEA-4617-9155-79937FEB45C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D4789D-8DEA-4617-9155-79937FEB45C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D4789D-8DEA-4617-9155-79937FEB45C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D4789D-8DEA-4617-9155-79937FEB45C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB27F0E1-BC4C-493E-9A9F-6AF6D2816BA6}
+	EndGlobalSection
+EndGlobal
